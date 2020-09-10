@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JWExtension (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JWExtension (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JWExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JWExtension: bcee7430b4e7a3456e2e0b50348b892d0af33fe6
+
+PODFILE CHECKSUM: 492b4e19c08a3e23108b4222feec73199ceaafca
+
+COCOAPODS: 1.9.3

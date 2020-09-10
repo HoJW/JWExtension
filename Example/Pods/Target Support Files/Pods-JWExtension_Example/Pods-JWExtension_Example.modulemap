@@ -1,0 +1,6 @@
+framework module Pods_JWExtension_Example {
+  umbrella header "Pods-JWExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

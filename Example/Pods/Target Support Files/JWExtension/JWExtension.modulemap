@@ -1,0 +1,6 @@
+framework module JWExtension {
+  umbrella header "JWExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

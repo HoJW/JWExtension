@@ -1,0 +1,22 @@
+{
+  "name": "JWExtension",
+  "version": "0.1.0",
+  "summary": "A short description of JWExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HoJW/JWExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "364139960@qq.com": "364139960@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/HoJW/JWExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JWExtension/Classes/**/*"
+}
