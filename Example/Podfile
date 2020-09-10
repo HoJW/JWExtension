@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JWExtension_Example' do
+  pod 'JWExtension', :path => '../'
+
+  target 'JWExtension_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
